@@ -1,5 +1,4 @@
-# Cola (int) con arreglo dinámico circular
-
+# Cola (int) con arreglo dinámico 
 Implementa `ColaArrayInt` (sin templates) usando buffer circular con crecimiento automático.
 
 ## Compilar y ejecutar
